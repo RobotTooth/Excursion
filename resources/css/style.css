@@ -41,7 +41,10 @@ body {
 
 /* IMAGES */
 
-.camp--img {
-    width: auto;
+.camp--img
+{
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
 }
 
