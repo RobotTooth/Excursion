@@ -5,24 +5,29 @@ body {
     
 }
 
+/* HEADERS */
+
 .header--main {
     font-weight: Normal;
     font-size: 50px;
     color: #fff;
 }
 
-.cta {
-    font-size: 16px;
-    color: aquamarine;
-}
-
-.header2 {
+.header--secondary {
     font-size: 36px;
     font-weight: 300;
     color: #fff;
 }
 
-.explanation {
+.header--sub-header {
     font-size: 21xp;
     color: grey;
 }
+
+/* LINKS */
+
+.cta {
+    font-size: 16px;
+    color: aquamarine;
+}
+
