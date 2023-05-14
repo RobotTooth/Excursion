@@ -15,3 +15,9 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+.header2 {
+    font-size: 36px;
+    font-weight: 300;
+    color: #fff;
+}
