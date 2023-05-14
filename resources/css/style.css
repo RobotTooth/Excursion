@@ -21,3 +21,8 @@ body {
     font-weight: 300;
     color: #fff;
 }
+
+.explanation {
+    font-size: 21xp;
+    color: grey;
+}
